@@ -1,9 +1,19 @@
+```
+__        __   _                            _____       _____ _          
+\ \      / /__| | ___ ___  _ __ ___   ___  |_   _|__   |_   _| |__   ___ 
+ \ \ /\ / / _ \ |/ __/ _ \| '_ ` _ \ / _ \   | |/ _ \    | | | '_ \ / _ \
+  \ V  V /  __/ | (_| (_) | | | | | |  __/   | | (_) |   | | | | | |  __/
+   \_/\_/ \___|_|\___\___/|_| |_| |_|\___|   |_|\___/    |_| |_| |_|\___|
+                                                                         
+ ____  __  __ _  __                 ____ _ _   _   _       _     _ 
+|  _ \|  \/  | |/ /___ _   _ ___   / ___(_) |_| | | |_   _| |__ | |
+| | | | |\/| | ' // _ \ | | / __| | |  _| | __| |_| | | | | '_ \| |
+| |_| | |  | | . \  __/ |_| \__ \ | |_| | | |_|  _  | |_| | |_) |_|
+|____/|_|  |_|_|\_\___|\__, |___/  \____|_|\__|_| |_|\__,_|_.__/(_)
+                       |___/                                       
+
 - 👋 Hi, I’m @DMKeys
 - 👀 I’m interested in Coding! 
 - 💞️ I’m looking to collaborate on fun and interesting projects!
 - 📫 How to reach me EngineeringProgrammer@Proton.me  
 
-<!---
-DMKeys/DMKeys is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
